@@ -1,0 +1,1 @@
+main src/main.c src/open.c include/open.h src/copy.c include/copy.h src/testServer.c include/testServer.h include/test_values.h
