@@ -1,5 +1,12 @@
 # **Guide**
 
+## **Startup**
+This project can be compiled using the ./build.sh command as long as files.txt exists and contains the following:
+
+    main src/main.c src/open.c include/open.h src/copy.c include/copy.h src/testServer.c include/testServer.h include/test_values.h
+
+To run, simple run the executable at ./build/main
+
 ## **Version 2**
 To update the server manager IP and port, change the ip and port strings in main.c.
 
